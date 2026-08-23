@@ -9,9 +9,21 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@types/prismjs": "^1.26.6",
+    "clsx": "^2.1.1",
+    "ethiopian-payment-verifier": "^1.0.0",
+    "framer-motion": "^13.1.1",
+    "jsqr": "^1.4.0",
+    "lucide-react": "^1.33.0",
     "next": "16.3.2",
+    "prismjs": "^1.30.0",
     "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "react-dom": "19.2.8",
+    "sharp": "^0.35.3",
+    "tailwind-merge": "^3.6.0",
+    "tailwindcss-animate": "^1.0.7",
+    "tesseract.js": "^7.0.0",
+    "unpdf": "^1.8.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
