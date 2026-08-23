@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/prismjs": "^1.26.6",
     "clsx": "^2.1.1",
-    "ethiopian-payment-verifier": "^1.0.0",
+    "ethiopian-payment-verifier": "file:./ethiopian-payment-verifier-1.0.0.tgz",
     "framer-motion": "^13.1.1",
     "jsqr": "^1.4.0",
     "lucide-react": "^1.33.0",
